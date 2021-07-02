@@ -40,7 +40,7 @@
     "accessor-fn": "1",
     "kapsule": "^1.13",
     "three": ">=0.118 <1",
-    "three-forcegraph": "^1.39",
+    "three-forcegraph": "https://github.com/GeorgeRushton/three-forcegraph.git",
     "three-render-objects": "^1.26"
   },
   "devDependencies": {
